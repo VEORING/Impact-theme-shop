@@ -20,18 +20,27 @@
             "text": "LIVRAISON GRATUITE 🚛",
             "url": ""
           }
+        },
+        "message_ydKJT3": {
+          "type": "message",
+          "settings": {
+            "text": "PROFITEZ DE -15% AVEC LE CODE VEO15",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_ydKJT3"
       ],
+      "custom_css": [],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-xs",
+        "text_size": "text-xxs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#000000",
-        "background_gradient": "",
+        "background_gradient": "linear-gradient(127deg, rgba(235, 190, 25, 1), rgba(26, 26, 26, 1) 2%)",
         "text_color": "#ffffff"
       }
     },
